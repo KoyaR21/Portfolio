@@ -1,3 +1,4 @@
+
 body {
     font-family: "Avenir Next";
   }
@@ -28,7 +29,7 @@ body {
     
   }
   .copy-container{
-    background-image: url(images/istockphoto-1171160402-170667a.jpg);
+    background-image: url(https://github.com/KoyaR21/Portfolio/blob/main/istockphoto-1171160402-170667a.jpg?raw=true);
     background-size: cover;
   }
   
